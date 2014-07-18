@@ -1,0 +1,12 @@
+{
+    "name": "listfilter",
+    "version": "0.1.0",
+    "title": "List Filter Plugin",
+    "author": {"name": "Bryan Cua"},
+    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+    "dependencies": {"jquery": "2.0.2"},
+    "description": "$.fn.listFilter plugin is a lightweight jQuery plugin that filters through a set of elements.",
+    "homepage": "http://js.lovelotte.net/jQ/listfilter",
+    "demo": "http://js.lovelotte.net/jQ/listfilter/demo.php",
+    "keywords": ["List", "Filter"]
+}
