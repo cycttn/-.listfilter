@@ -1,6 +1,6 @@
 {
-    "name": "listfilter",
-    "version": "0.1.0",
+    "name": "cycListFilter",
+    "version": "0.1",
     "title": "List Filter Plugin",
     "author": {"name": "Bryan Cua"},
     "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
